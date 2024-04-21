@@ -3,17 +3,8 @@
 ## Description
 Minishell1 is a basic UNIX command interpreter designed to work on the terminal. It provides a command-line interface similar to 42sh while focusing on basic functionalities.
 
-## Version
-2.0
-
 ## Binary Command
-Binary command name: `mysh`
-
-## Project Directory
-Repository name: `PSU_minishell1_$ACADEMICYEAR`
-
-## Directory Rights
-Directory rights: `ramassage-tek`
+Binary command name: `./mysh`
 
 ## Language
 Programming language: C
